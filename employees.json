@@ -1,0 +1,64 @@
+{
+	"employees": [
+		{
+			"name": "Иванов Иван Иванович",
+			"position": "Менеджер",
+			"dateBirthday": "1990-09-19",
+			"gender": "male"
+		},
+		{
+			"name": "Петров Петр Петрович",
+			"position": "Разработчик",
+			"dateBirthday": "1992-08-19",
+			"gender": "male"
+		},
+		{
+			"name": "Сидорова Анна Ивановна",
+			"position": "HR",
+			"dateBirthday": "1985-09-19",
+			"gender": "female"
+		},
+		{
+			"name": "Кузнецов Алексей Алексеевич",
+			"position": "Аналитик",
+			"dateBirthday": "1987-02-12",
+			"gender": "male"
+		},
+		{
+			"name": "Морозова Мария Сергеевна",
+			"position": "Менеджер по продажам",
+			"dateBirthday": "1993-09-19",
+			"gender": "female"
+		},
+		{
+			"name": "Васильев Дмитрий Михайлович",
+			"position": "Инженер",
+			"dateBirthday": "1989-09-19",
+			"gender": "male"
+		},
+		{
+			"name": "Смирнова Елена Александровна",
+			"position": "Маркетолог",
+			"dateBirthday": "1990-03-15",
+			"gender": "female"
+		},
+		{
+			"name": "Крылов Сергей Викторович",
+			"position": "Тестировщик",
+			"dateBirthday": "1991-09-19",
+			"gender": "male"
+		},
+		{
+			"name": "Зайцева Анастасия Николаевна",
+			"position": "Оператор",
+			"dateBirthday": "1984-09-05",
+			"gender": "female"
+		},
+		{
+			"name": "Григорьев Павел Андреевич",
+			"position": "Директор",
+			"dateBirthday": "1980-09-19",
+			"gender": "male"
+		}
+	]
+}
